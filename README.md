@@ -87,6 +87,7 @@ npm run dev
 ```
 
 ## 📸 Screenshots  
+![image](https://github.com/user-attachments/assets/e6db7c35-9098-4b20-82a1-a021deaa9ce1)
 
 
 ## 📌 Future Improvements  
